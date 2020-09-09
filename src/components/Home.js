@@ -27,7 +27,7 @@ function Home() {
       <div className="home_row">
         <Product
           id="3"
-          title="ELEGIANT Computer Speakers, 10W 3 in 1 USB 2.0 & Bluetooth 5.0 PC Speakers with Stereo Sound Colorful LED Light Detachable Gaming Speakers Mini"
+          title="ELEGIANT Computer Speakers, 10W 3 in 1 USB 2.0 & Bluetooth 5.0 PC Speakers with Stereo Sound"
           price={32.99}
           rating={3}
           image="https://images-na.ssl-images-amazon.com/images/I/71awumYtXDL._AC_SL1500_.jpg"
