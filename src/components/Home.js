@@ -14,7 +14,7 @@ function Home() {
           title="HUAWEI MediaPad T5 - 10.1 Inch Android 8.0 Tablet, 1080P Full HD Display, Kirin 695 Octa-Core Processor, RAM 3GB, ROM 32GB, Dual Stereo Speakers, 5100mAh Large Battery, Black"
           price={161.81}
           rating={5}
-          image="https://images-na.ssl-images-amazon.com/images/I/51UQTXsgQnL._AC_SL1000_.jpg"
+          image="https://images-na.ssl-images-amazon.com/images/I/513vTfmCCBL._AC_SL1000_.jpg"
         />
         <Product
           id="2"

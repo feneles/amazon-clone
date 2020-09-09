@@ -3,6 +3,9 @@
 @import "./style/Header.scss";
 @import "./style/Home.scss";
 @import "./style/Product.scss";
+@import "./style/Checkout.scss";
+@import "./style/CheckoutProduct.scss";
+@import "./style/Subtotal.scss";
 
 * {
   margin: 0;
@@ -11,4 +14,5 @@
 .app {
   background-color: rgb(234, 237, 237);
   font-family: "Roboto", sans-serif;
+  min-height: 100vh;
 }
