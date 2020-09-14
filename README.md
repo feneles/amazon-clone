@@ -1,3 +1,13 @@
+<strong>This project is Amazon Clone, for build this I made it using ContextAPI as a state menagement and React Router for route changes.</strong>
+
+Live demo: https://clone-57744.web.app/
+
+
+
+
+
+_________________________________________________________________________
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
