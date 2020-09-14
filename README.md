@@ -1,4 +1,4 @@
-<strong>This project is Amazon Clone, for build this I made it using ContextAPI as a state menagement and React Router for route changes. I also used firebase as hosting and login authentication.</strong>
+<strong>This project is an Amazon Clone, for build this I made it using ContextAPI as a state menagement and React Router for route changes. I also used firebase as hosting and login authentication.</strong>
 
 Live demo: https://clone-57744.web.app/
 
